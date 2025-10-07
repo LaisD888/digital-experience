@@ -2,4 +2,4 @@
 
 My first website - yay.
 
-**Author** Laïs Desmet
+**Author** Laïs Des
